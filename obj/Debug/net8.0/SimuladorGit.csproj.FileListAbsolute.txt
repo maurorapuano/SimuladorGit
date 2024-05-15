@@ -1,0 +1,14 @@
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\bin\Debug\net8.0\SimuladorGit.exe
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\bin\Debug\net8.0\SimuladorGit.deps.json
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\bin\Debug\net8.0\SimuladorGit.runtimeconfig.json
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\bin\Debug\net8.0\SimuladorGit.dll
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\bin\Debug\net8.0\SimuladorGit.pdb
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\SimuladorGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\SimuladorGit.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\SimuladorGit.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\SimuladorGit.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\SimuladorGit.dll
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\refint\SimuladorGit.dll
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\SimuladorGit.pdb
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\SimuladorGit.genruntimeconfig.cache
+C:\Users\mauro\OneDrive\Escritorio\Proyectos\SimuladorGit\SimuladorGit\obj\Debug\net8.0\ref\SimuladorGit.dll
